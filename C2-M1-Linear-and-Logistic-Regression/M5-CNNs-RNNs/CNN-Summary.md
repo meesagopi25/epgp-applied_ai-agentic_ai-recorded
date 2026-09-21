@@ -24,3 +24,29 @@ You will also understand different CNN architectures, techniques to improve mode
 ## Next Step
 
 Let's begin by exploring the key challenges that traditional machine learning models encounter when handling complex data such as images.
+----
+# Challenges with ML Models - 1
+
+Let’s begin by understanding the challenges faced by **classical machine learning** models when working with unstructured data. You will also learn how the concept of the **Convolutional Neural Network (CNN)** emerged and how it was inspired by the **visual system of mammals**.
+
+Next, you will gain an understanding of the challenges involved in processing image data using **classical ML models**.
+
+You have already learned how a computer represents black-and-white images as a **matrix of numbers**. Images are divided into many small areas called **Picture Elements (Pixels)**, and each pixel has an associated value. These values represent the intensity of the image at that location, and each pixel corresponds to a very small portion of the image.
+
+Images can also be represented as a **matrix of numerical values**. Computers interpret the features within an image through these pixel values. Each pixel has a different value depending on the **intensity of the image** at that specific location.
+
+> **Note**
+>
+> Conventionally, higher pixel values are associated with white color, while lower pixel values are associated with black color. However, for the purpose of explanation and visualization, this representation has been reversed in the example.
+>
+> Pixel values typically range from **0 to 255**:
+>
+> - **0** represents black
+> - **255** represents white
+>
+> In the SME's example, the values have been used in reverse:
+>
+> - Black dots are represented by values around **200**
+> - Lighter areas are represented by values closer to **0**
+
+You have now learned how an image can be represented as a **matrix of numbers**. Next, you will explore why **classical machine learning models** struggle to work effectively with image data.
