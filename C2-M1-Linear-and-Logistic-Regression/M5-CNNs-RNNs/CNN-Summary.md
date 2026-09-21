@@ -1,3 +1,4 @@
+Session Overview
 Welcome to this session on 'Convolutional Neural Networks (CNNs)'.
 
  
