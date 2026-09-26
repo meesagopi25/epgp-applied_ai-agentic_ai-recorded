@@ -4,4 +4,5 @@ C2-M4-FCFNNs:
 3. What is an ensemble of networks?
 4. What is L1 and L2 regularization techniques?
 5. Overall, understand clearly about the regularization techniques?
-6. 
+6. What is an optimizer and what is learnign_rate?
+7. 
