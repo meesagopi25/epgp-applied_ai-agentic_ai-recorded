@@ -6,4 +6,5 @@ C2-M4-FCFNNs:
 5. Overall, understand clearly about the regularization techniques?
 6. What is an optimizer and what is learnign_rate?
 7. How to find out the total parameters and trainable parameters?
-8. 
+8. What is an activation function and why we need this?
+9. 
