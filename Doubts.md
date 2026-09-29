@@ -7,4 +7,6 @@ C2-M4-FCFNNs:
 6. What is an optimizer and what is learnign_rate?
 7. How to find out the total parameters and trainable parameters?
 8. What is an activation function and why we need this?
-9. 
+9. What is a loss function?
+10. What is Adam optimizer?
+11. 
