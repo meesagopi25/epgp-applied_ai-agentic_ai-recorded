@@ -9,4 +9,5 @@ C2-M4-FCFNNs:
 8. What is an activation function and why we need this?
 9. What is a loss function?
 10. What is Adam optimizer?
-11. 
+11. How to tune the CNN model?
+12. 
